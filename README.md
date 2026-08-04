@@ -1,11 +1,11 @@
-# chefAntiDesperdicio
+# Chef Anti-Desperdício
 
 Sistema de administração de desperdício para restaurantes.
 
 ## Estrutura do projeto
 
 ```
-chefAntiDesperdicio/
+chef-anti-desperdicio/
 ├── frontend/   # Next.js + TypeScript + Tailwind CSS (arquitetura em camadas)
 └── backend/    # Node.js + Express + TypeScript (arquitetura em camadas)
 ```
